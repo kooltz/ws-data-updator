@@ -1,0 +1,14 @@
+{
+  "WS": [
+    {
+      "ID": "",
+      "URL": "wss://~~~",
+      "PAYLOAD": {
+        "field" : "value"
+      }
+  ],
+  "DB": {
+    "URL": "change your database url",
+    "DATABASE": "change your database",
+  }
+}
